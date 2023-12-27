@@ -1,0 +1,61 @@
+[ 
+ {
+  "question": "What is the capital of South Africa?",
+  "optionA": "Cape Town",
+  "optionB": "Johannesburg",
+  "optionC": "Durban",
+  "optionD": "Pretoria",
+  "answer": "Johannesburg"
+ },
+ {
+  "question": "What’s the capital of Ethiopia?",
+  "optionA": "Cape Town",
+  "optionB": "San Francisco",
+  "optionC": "Abuja",
+  "optionD": "Syndey",
+  "answer": "Addis Ababa"
+ },
+ {
+  "question": "What takes place in Hong Kong's Happy Valley?",
+  "optionA": "Chicken Wrestling",
+  "optionB": "Horse racing",
+  "optionC": "Street Racing",
+  "optionD": "Arm Wrestling",
+  "answer": "Horse racing"
+},
+
+{
+  "question": "Who painted the Mona Lisa?",
+  "optionA": "Alexander Graham Bell",
+  "optionB": "Sir Isaac Newton",
+  "optionC": "Leonardo Da Vinci",
+  "optionD": "Albert Einstein",
+  "answer": "Leonardo Da Vinci"
+},
+{
+  "question": "Which is the only mammal that can’t jump?",
+  "optionA": "Dog",
+  "optionB": "Elephant",
+  "optionC": "Goat",
+  "optionD": "Lion",
+  "answer": "Elephant"
+},
+
+ {
+  "question": "What is the smallest country in the world?",
+  "optionA": "Vatican City",
+  "optionB": "Monaco",
+  "optionC": "San Marino",
+  "optionD": "Liechtenstein",
+  "answer": "Vatican City"
+ },
+
+ {
+  "question": "How many squares are there on a chess board?",
+  "optionA": "128",
+  "optionB": "64",
+  "optionC": "32",
+  "optionD": "256",
+  "answer": "64"
+ }
+]
