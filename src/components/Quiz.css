@@ -1,0 +1,121 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color: rgb(182, 134, 134);
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-shadow: 2px 4px rgb(0, 0, 0);
+}
+h1:hover{
+  text-shadow: 3px 6px rgb(0, 0, 0);
+  transition: 0.88s;
+}
+h5{
+  font-size: 40px;
+  color: rgb(64, 179, 164);
+  text-shadow: 2px 4px rgb(0, 0, 0);
+}
+h5:hover{
+  text-shadow: 1px 2px rgb(0, 0, 0);
+  transition: 0.88s;
+}
+.page{
+  padding: 5% 0px 5% 0px;
+  background-color: white;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.choice{
+  display: grid;
+ justify-content: center;
+  grid-column-gap: 20px;
+  height: 10%;
+  width: 100%;
+}
+.option{
+  cursor: pointer;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  width: 500px;
+  border-radius: 20px;
+  background-color: #4692e4e4;
+  color:white;
+  text-align: center;
+}
+.prev{
+  cursor: pointer;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #9d559be4;
+  color:white;
+  margin-right: 10px;
+  text-align: center;
+}
+.prev:hover{
+  background-color: #9d559b;
+  transition: 0.88s;
+  box-shadow: 2px 4px black;
+}
+.next{
+  cursor: pointer;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #70c7b8e4;
+  color:white;
+  text-align: center;
+}
+.next:hover{
+  background-color: #559f93;
+  transition: 0.88s;
+  box-shadow: 2px 4px black;
+}
+.quit{
+  cursor: pointer;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #959d55e4;
+  color:white;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.quit:hover{
+  background-color: #666e28;
+  transition: 0.88s;
+  box-shadow: 2px 4px black;
+}
+.finish{
+  cursor: pointer;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  width: 80px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #9d6955e4;
+  color:white;
+  text-align: center;
+}
+.finish:hover{
+  background-color: #815c2e;
+  transition: 0.88s;
+  box-shadow: 2px 4px black;
+}
